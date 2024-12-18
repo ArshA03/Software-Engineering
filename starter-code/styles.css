@@ -110,10 +110,7 @@ ul, ol, li {
 .header__copy--uppercase, .header__tagline--uppercase {
   text-transform: uppercase;
 }
-.header__copy--bold--uppercase{
-  font-weight: bold;
-  text-transform: uppercase;
-}
+
 .header__copy {
   margin: 0 0 90px;
 }
@@ -191,22 +188,6 @@ ul, ol, li {
   margin: 0;
 }
 .pricing__card-bottom {
-  font-size: 19px;
-}
-.pricing__card-bottom ol {
-  padding-left: 30px;
-  padding-right: 0;
-}
-.pricing__card-bottom ol li {
-  font-size: 19px;
-  font-family: "Overpass", Arial, Helvetica, sans-serif;
-  margin: 10px 0;
-  font-weight: normal;
-}
-.pricing__card-info {
-  margin: 0;
-  font-family: "Overpass", Arial, Helvetica, sans-serif;
-  font-weight: normal;
   font-size: 19px;
 }
 
